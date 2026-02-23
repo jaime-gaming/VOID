@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: Michael Burns
-description: VOID always watched
+description: VOID always watches...
 ---
 
 # My Agent
